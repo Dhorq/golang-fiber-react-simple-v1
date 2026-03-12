@@ -1,5 +1,3 @@
-// package main
-
 // import (
 // 	"fmt"
 // 	"log"
@@ -83,4 +81,3 @@
 
 // 	log.Fatal(app.Listen(":" + PORT))
 // }
-*/
